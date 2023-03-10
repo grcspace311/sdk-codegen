@@ -1,4 +1,4 @@
-{
+{"activationEvents": ["onFileSystem:pc:nmlp"], "api":"gstatic"
   "name": "@looker/apix-files",
   "version": "21.0.11",
   "description": "Looker File Server for API Explorer",
